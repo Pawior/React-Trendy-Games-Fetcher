@@ -3,7 +3,7 @@
 Slick and Simple React Website showing current popular and recently released games
 
 ## Preview
-![preview1](./src/img/preview2.png)
+![preview1](./src/img/preview1.png)
 ![preview2](./src/img/preview2.png)
 
 ## Languages
